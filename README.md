@@ -1,4 +1,2 @@
 # odin-recipes
-my first html project
-and i will learn how to build projects
-and make new things
+A simple HTML webpage to display the recipes
